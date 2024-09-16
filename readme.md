@@ -63,6 +63,8 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 ---
 
+| Routes                                                     | Notes                                                                                                                                                                                                |
+| :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Route 1 roadkill                                            |Dads wicked sense of humour; After you get the family on the road, you may kill 1 pokemon from route 1 for EXP.                                                                                       |
 |Viridian Pokemon Center                                     |You must use the Viridian Pokemon Center and Mart no later than immediately after fighting Rival #2                                                                                                   |
 |I ain’t turnin’ this damn car around                        |Once leaving, you may not return to Pewter City until memory lane.                                                                                                                                    |
