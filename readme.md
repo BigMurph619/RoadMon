@@ -95,8 +95,8 @@ Receive 2 extra items per hitchhiker. UNLESS!?
 
 | Situation              | What to check for                                                                                                                                           | Abilities                   | Moves                                 |
 | :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------: | :-----------------------------------: |
-| Get Robbed!            | If the hitchhiker has the listed moves/abilities you must toss out your 3 biggest healing items. You must deposit the hitchhiker into the PC (Prison Cage). | Abilities: Hustle, Minus,   | Moves: Thief, Trick, Knock Off, Covet |
-| The kids get kidnapped | If the hitchhiker has the listed moves/abilities, Timmy and Kimmy have been kidnapped and you must go fight the Dojo Immediately to get the kids back.      | Abilities: Pickup, Run Away | Abilities: Pickup, Run Away           |
+| Get Robbed!            | If the hitchhiker has the listed moves/abilities you must toss out your 3 biggest healing items. You must deposit the hitchhiker into the PC (Prison Cage). | Hustle, Minus,              | Thief, Trick, Knock Off, Covet        |
+| The kids get kidnapped | If the hitchhiker has the listed moves/abilities, Timmy and Kimmy have been kidnapped and you must go fight the Dojo Immediately to get the kids back.      | Pickup, Run Away            | Role Play, Facade, Follow Me, Snatch  |
 
 ---
 
