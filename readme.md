@@ -61,6 +61,8 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 # Family Trip Plan
 
+---
+
 |Route 1 roadkill                                            |Dads wicked sense of humour; After you get the family on the road, you may kill 1 pokemon from route 1 for EXP.                                                                                       |
 |Viridian Pokemon Center                                     |You must use the Viridian Pokemon Center and Mart no later than immediately after fighting Rival #2                                                                                                   |
 |I ain’t turnin’ this damn car around                        |Once leaving, you may not return to Pewter City until memory lane.                                                                                                                                    |
@@ -77,6 +79,8 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 |Memory Lane:                                                |Go down memory lane and revisit places for things like move tutors (i.e Pewter City tutor etc) no shop/Pokemon Center re-use. You may only go down memory lane once returning from the Sevii Islands. |
 |We’re almost home, no stopping                              |You may not use items outside of Battle during the Elite 4/Champ. Goodluck!                                                                                                                           |
 
+---
+
 **Non consumable items:** Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
 
 # Hitchhiker encouters
@@ -85,12 +89,18 @@ Mum and Dad like to have an action plan for hitchhikers;
 
 Receive 2 extra items per hitchhiker. UNLESS!?
 
+---
+
 | Get Robbed!            | If the hitchhiker has the listed moves/abilities you must toss out your 3 biggest healing items. You must deposit the hitchhiker into the PC (Prison Cage). | Abilities: Hustle, Minus,   | Moves: Thief, Trick, Knock Off, Covet |
 | The kids get kidnapped | If the hitchhiker has the listed moves/abilities, Timmy and Kimmy have been kidnapped and you must go fight the Dojo Immediately to get the kids back.      | Abilities: Pickup, Run Away | Abilities: Pickup, Run Away           |
+
+---
 
 > Deposit the kids and hitchhiker before entering Dojo. You must withdraw the kids immediately after but leave this hitchhiker in the PC (Prison Cage) forever!
 
 # Mums Approved Shops
+
+---
 
 | Viridian Mart   |
 | Pewter Mart     |
@@ -103,9 +113,13 @@ Receive 2 extra items per hitchhiker. UNLESS!?
 | Cinnabar Mart   |
 | 3 Island Mart   |
 
+---
+
 > Celadon Mart: The Family may also get additional Rooftop drinks (any combination) and either keep or trade them for TMs…unless Mom ruins it for everyone.
 
 # Dads Approved Heals
+
+---
 
 | **Heals**      | **Notes**                    |
 | Mom            | Grandma’s                    |
@@ -126,3 +140,5 @@ Receive 2 extra items per hitchhiker. UNLESS!?
 | 3 Island       |                              |
 | Hot Spring     | Uncle Harry’s Hot Springs    |
 | Indigo Plateau |                              |
+
+---
