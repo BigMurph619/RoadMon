@@ -93,6 +93,8 @@ Receive 2 extra items per hitchhiker. UNLESS!?
 
 ---
 
+| Situation              | What to check for                                                                                                                                           | Abilities                   | Moves                                 |
+| :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------: | :-----------------------------------: |
 | Get Robbed!            | If the hitchhiker has the listed moves/abilities you must toss out your 3 biggest healing items. You must deposit the hitchhiker into the PC (Prison Cage). | Abilities: Hustle, Minus,   | Moves: Thief, Trick, Knock Off, Covet |
 | The kids get kidnapped | If the hitchhiker has the listed moves/abilities, Timmy and Kimmy have been kidnapped and you must go fight the Dojo Immediately to get the kids back.      | Abilities: Pickup, Run Away | Abilities: Pickup, Run Away           |
 
@@ -103,7 +105,8 @@ Receive 2 extra items per hitchhiker. UNLESS!?
 # Mums Approved Shops
 
 ---
-
+| Shops           |
+| :-------------: |
 | Viridian Mart   |
 | Pewter Mart     |
 | Cerulean Mart   |
@@ -124,6 +127,7 @@ Receive 2 extra items per hitchhiker. UNLESS!?
 ---
 
 | **Heals**      | **Notes**                    |
+| :------------: | :--------------------------: |
 | Mom            | Grandma’s                    |
 | Viridian       | Must Be Before First Badge   |
 | Pewter         |                              |
