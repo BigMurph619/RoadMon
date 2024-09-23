@@ -85,7 +85,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 **Non consumable items:** Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
 
-# Hitchhiker encounters
+# Hitchhiker Encounters
 
 Mum and Dad like to have an action plan for hitchhikers;
 
