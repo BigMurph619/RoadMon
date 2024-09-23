@@ -23,7 +23,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 10) No Redos: You may not re-fight trainers or pickup the same item twice.
 11) Theme parks: You have only one entry ticket for dungeons.
 
-# The Kids' interpretations
+# The Kids' Interpretations
 
 1) Heals for all: You may not use pure healing moves such as recover. Leech seed, aromatherapy, and heal bell thay are all illegal.
 2) Shut up! And stay that way: You may use all items you find and purchase (restricted to shopping and other rules).
@@ -35,7 +35,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 8) No Redos: You may not abuse respawning items.
 9) Theme parks: Applies to Caves, Gyms, and Buildings with trainers.
 
-# The birds and the bees
+# The Birds and the Bees
 
 1) Dad : You may choose your starter off of the table, this is “Dad”. Please nickname accordingly.
 2) Mum : You must catch 1 Pokemon from Viridian Forest, this is “Mom”. Please nickname accordingly.
