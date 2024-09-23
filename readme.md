@@ -89,7 +89,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 Mum and Dad like to have an action plan for hitchhikers;
 
-Receive 2 extra items per hitchhiker. UNLESS!?
+Receive 2 extra items per hitchhiker by delivering them to the Fuschia City PC. UNLESS!?
 
 ---
 
