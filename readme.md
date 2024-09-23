@@ -89,7 +89,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 Mum and Dad like to have an action plan for hitchhikers;
 
-Receive 2 extra items per hitchhiker by delivering them to the Fuschia City PC. UNLESS!?
+Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to the Fuschia City PC. UNLESS!?
 
 ---
 
@@ -102,7 +102,7 @@ Receive 2 extra items per hitchhiker by delivering them to the Fuschia City PC. 
 
 > Deposit the kids and hitchhiker before entering Dojo. You must withdraw the kids immediately after but leave this hitchhiker in the PC (Prison Cage) forever!
 
-# Mums Approved Shops
+# Mum's Approved Shops
 
 ---
 | Shops           |
@@ -122,7 +122,7 @@ Receive 2 extra items per hitchhiker by delivering them to the Fuschia City PC. 
 
 > Celadon Mart: The Family may also get additional Rooftop drinks (any combination) and either keep or trade them for TMs…unless Mom ruins it for everyone.
 
-# Dads Approved Heals
+# Dad's Approved Gas Stops
 
 ---
 
