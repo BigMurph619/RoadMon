@@ -73,7 +73,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 |You must beat Surge before cutting towards Rock Tunnel      |You’re getting the idea, no going back to places unless I say so.                                                                                                                                     |
 |The Haunted House: Dress up for Halloween!                  |You may only hold clothing or accessory based non consumable items                                                                                                                                    |
 |Trick or Treat Clause                                       |If you find a rare candy in the tower, you may use the Heal Pad once and retrieve the item.                                                                                                           |
-|Hitchhiker clause (Applies only to the roadblock Snorlaxes) |You may pick up one, none or both of the Hitchhikers. Catch and bring them to Fuschia City. [Hitchhiker encouters](#hitchhiker-encouters)                                                             |
+|Hitchhiker clause (Applies only to the roadblock Snorlaxes) |You may pick up one, none or both of the Hitchhikers. Catch and bring them to Fuschia City. [Hitchhiker encounters](#hitchhiker-encounters)                                                             |
 |Make your own story                                         |The pathing of the mid game gets weird, you’re on a road trip, stay in the spirit of the challenge, follow all rules, and tell a good story!                                                          |
 |Safari Souvenir                                             |You may catch 1 unique Pokemon per family member from the Safari zone at a chance for information and held items. No fishing allowed, DAD!                                                            |
 |Move Deleter is Banned.                                     |I don’t trust that guy, ain’t nothin’ free in this world - Dad Probably                                                                                                                               |
@@ -85,7 +85,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 **Non consumable items:** Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
 
-# Hitchhiker encouters
+# Hitchhiker encounters
 
 Mum and Dad like to have an action plan for hitchhikers;
 
