@@ -23,12 +23,12 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 10) No Redos: You may not re-fight trainers or pickup the same item twice.
 11) Theme parks: You have only one entry ticket for dungeons.
 
-# Kids interputations
+# The Kids' interpretations
 
 1) Heals for all: You may not use pure healing moves such as recover. Leech seed, aromatherapy, and heal bell thay are all illegal.
 2) Shut up! And stay that way: You may use all items you find and purchase (restricted to shopping and other rules).
 3) Stealing is bad: Steal and use mid battle is allowed.
-4) Stopping for snacks: You may only enter each shop once so you must buy all your snacks together. You must get your snacks before leaving that town. You may get unlimited repels.
+4) Stopping for snacks: You may only enter each shop once so you must buy all your snacks together. You must get your snacks before leaving that town. You may get unlimited repels and poke balls.
 5) Refueling: You may not heal via any other healing station unless otherwise stated in another rule.
 6) The vegan way: Unless game progression requires you to do so.
 7) Shiny toys: If a shiny pokemon appears feel free to hunt it.
@@ -45,7 +45,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 # Family Traits
 
 1) Dad : "gotta fish"
-    - You may fish at any of these locations and Dad can use the item only right then or toss.
+    - You may fish at any of these locations, catch the first encounter and Dad can use the item only right then or toss.
     - Locations: Route 6 Pond, Celadon Pond, Route 12 Pier, Fuschia Pond, Cinnabar Pier, Cape Brink (Two Island), Bond Bridge (Three Island)
 2) Mum : "gotta gamble"
     - On the way out from hideout spend ALL of your money on coins, gamble 10 times.
@@ -65,12 +65,12 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 | Routes                                                     | Notes                                                                                                                                                                                                |
 | :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|Route 1 roadkill                                            |Dads wicked sense of humour; After you get the family on the road, you may kill 1 pokemon from route 1 for EXP.                                                                                       |
+|Route 1 roadkill                                            |After you get the family on the road, you may kill 1 pokemon from route 1 for EXP.                                                                                       |
 |Viridian Pokemon Center                                     |You must use the Viridian Pokemon Center and Mart no later than immediately after fighting Rival #2                                                                                                   |
 |I ain’t turnin’ this damn car around                        |Once leaving, you may not return to Pewter City until memory lane.                                                                                                                                    |
-|You must beat Misty before “Dig” rocket                     |You may only return to Cerulean for Kimmy’s bike cuz that shit costs 1,000,000 Poke Bucks and for Memory Lane.                                                                                        |
+|You must beat Misty before “Dig” rocket                     |You may only return to Cerulean for Kimmy’s bike cuz that shit costs 1,000,000 Poke Bucks...and for Memory Lane.                                                                                        |
 |Pull your weight                                            |Each Family member must have 1 and ONLY 1 of the needed HMs: Cut, Fly, Surf, Strength. Once taught, it must not be changed. Rock Smash may be taught at your own discretion but may not be forgotten. |
-|You must beat Surge before cutting towards Rock Tunnel      |you’re getting the idea, no going back to places unless I say so.                                                                                                                                     |
+|You must beat Surge before cutting towards Rock Tunnel      |You’re getting the idea, no going back to places unless I say so.                                                                                                                                     |
 |The Haunted House: Dress up for Halloween!                  |You may only hold clothing or accessory based non consumable items                                                                                                                                    |
 |Trick or Treat Clause                                       |If you find a rare candy in the tower, you may use the Heal Pad once and retrieve the item.                                                                                                           |
 |Hitchhiker clause (Applies only to the roadblock Snorlaxes) |You may pick up one, none or both of the Hitchhikers. Catch and bring them to Fuschia City. [Hitchhiker encouters](#hitchhiker-encouters)                                                             |
