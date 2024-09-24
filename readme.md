@@ -25,7 +25,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 # The Kids' Interpretations
 
-1) Heals for all: You may not use pure healing moves such as recover. Leech seed, aromatherapy, and heal bell thay are all illegal.
+1) Heals for all: You may not use pure healing moves such as recover. Leech seed, aromatherapy, and heal bell they are all illegal.
 2) Shut up! And stay that way: You may use all items you find and purchase (restricted to shopping and other rules).
 3) Stealing is bad: Steal and use mid battle is allowed.
 4) Stopping for snacks: You may only enter each shop once so you must buy all your snacks together. You must get your snacks before leaving that town. You may get unlimited repels and poke balls.
