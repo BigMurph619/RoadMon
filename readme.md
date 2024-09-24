@@ -153,3 +153,5 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 
 | Standard AI, Type Themed areas wild Pokemon, Opponents 40% level increase, Strong Legendaries: Slow Exp, Opponents Held Items on Bosses only (sensible/Consumable), Catch rate 100% |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 321QRIEEjIBAAQABwCRAAKeChsECQEACQACCQAuEgAAAAAABRiY2gTkAoYICTIGBAIyGQUgEEZpcmUgUmVkIChVKSAxLjGZn2vh48M4ig== |
+| :---------------------------------------------------------------------------------------------------------: |
