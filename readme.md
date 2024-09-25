@@ -119,7 +119,7 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 
 ---
 
-> Celadon Mart: The Family may also get additional Rooftop drinks (any combination) and either keep or trade them for TMs…unless Mom ruins it for everyone.
+> Celadon Mart: The Family may also get additional Rooftop drinks (any combination) and either keep or trade them for TMs…unless Mom ruins it for everyone. You may only go to the rooftop if Mom goes positive gambling.
 
 # Dad's Approved Gas Stops
 
