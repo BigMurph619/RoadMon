@@ -14,9 +14,9 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 1) Stay on the road: Someone must always be awake to drive! If all Pokemon faint, the trip is over.
 2) Take turns driving: All mons must stay within 20 levels of one another.
 3) Heals for all: You may heal outside of battle as well as in battle.
-4) Shut up! And stay that way: No flutes or reviving items allowed, all other items are legal.
+4) Shut up! And stay that way: No flutes, shell bell, leftovers or reviving items allowed, all other items are legal.
 5) Stealing is bad: You may not keep ANY stolen items.
-6) Stopping for snacks: Each family member may buy 1 unique snack at each shop.
+6) Stopping for snacks: Each family member may buy 1 snack at each shop.
 7) Refueling: Healing stations are a one time stop.
 8) Friends of the family: All TMs and Move Tutors are allowed.
 9) The vegan way: You may not intentionally kill a wild Pokemon for EXP.
@@ -39,8 +39,8 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 1) Dad : You may choose your starter off of the table, this is “Dad”. Please nickname accordingly.
 2) Mum : You must catch 1 Pokemon from Viridian Forest, this is “Mom”. Please nickname accordingly.
-3) Kimmy : You must catch 1 pokemon from Route 2, this is “Kimmy”. Please nickname accordingly.
-4) Timmy : You must catch 1 pokemon from Route 22, this is “Timmy”. Please nickname accordingly.
+3) Kimmy : You must catch 1 pokemon from Route 2 or 22, this is “Kimmy”. Please nickname accordingly.
+4) Timmy : You must catch 1 pokemon from Diglett Cave, this is “Timmy”. Please nickname accordingly.
 
 # Family Traits
 
@@ -66,7 +66,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 | Routes                                                     | Notes                                                                                                                                                                                                |
 | :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Route 1 roadkill                                            |After you get the family on the road, you may kill 1 pokemon from route 1 for EXP.                                                                                                                    |
-|Viridian Pokemon Center                                     |You must use the Viridian Pokemon Center and Mart no later than immediately after fighting Rival #2                                                                                                   |
+|Viridian Pokemon Center                                     |You must use the Viridian Pokemon Center and Mart no later than immediately after fighting Rival #2 Note: you may use the pokemon center freely prior to the Route 1 Radkill                          |
 |I ain’t turnin’ this damn car around                        |Once leaving, you may not return to Pewter City until memory lane.                                                                                                                                    |
 |You must beat Misty before “Dig” rocket                     |You may only return to Cerulean for Kimmy’s bike cuz that shit costs 1,000,000 Poke Bucks...and for Memory Lane.                                                                                      |
 |Pull your weight                                            |Each Family member must have 1 and ONLY 1 of the needed HMs: Cut, Fly, Surf, Strength. Once taught, it must not be changed. Rock Smash may be taught at your own discretion but may not be forgotten. |
@@ -79,7 +79,6 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 |Move Deleter is Banned.                                     |I don’t trust that guy, ain’t nothin’ free in this world - Dad Probably                                                                                                                               |
 |Sevii Islands - no Island hopping                           |You may not return to an Island unless it is for mission progression. Mom didn’t pay for that feature. Only return to one Island once you’re ready to leave.                                          |
 |Memory Lane:                                                |Go down memory lane and revisit places for things like move tutors (i.e Pewter City tutor etc) no shop/Pokemon Center re-use. You may only go down memory lane once returning from the Sevii Islands. |
-|We’re almost home, no stopping                              |You may not use items outside of Battle during the Elite 4/Champ. Goodluck!                                                                                                                           |
 
 ---
 
@@ -134,6 +133,7 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 | Route 4        |                              |
 | Cerulean       |                              |
 | Vermillion     |                              |
+| SS Anne        | Cruise time after Timmy      |
 | Rock Tunnel    |                              |
 | Lavender       |                              |
 | Celadon        |                              |
