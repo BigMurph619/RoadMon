@@ -5,7 +5,7 @@
 
 The not-so E for everyone story:
 
-The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever is driving!? Will Mom lose all our money? Should we pick up the HitchHiker? Let’s make some badass memories!
+The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever is driving!? Will we get to pick up Timmy from College?  Will Mom lose all our money? Should we pick up the HitchHiker? Let’s make some badass memories!
 
 ---
 
