@@ -38,9 +38,9 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 # The Birds and the Bees
 
 1) Dad : You may choose your starter off of the table, this is “Dad”. Please nickname accordingly.
-2) Mum : You must catch 1 Pokemon from Viridian Forest, this is “Mom”. Please nickname accordingly.
+2) Mum : You must catch 1 Pokemon from Viridian Forest , this is “Mom”. Please nickname accordingly.
 3) Kimmy : You must catch 1 pokemon from Route 2 or 22, this is “Kimmy”. Please nickname accordingly.
-4) Timmy : You must catch 1 pokemon from Diglett Cave, this is “Timmy”. Please nickname accordingly.
+4) Timmy : You must catch 1 pokemon from Diglett Cave Community College, this is “Timmy”. Please nickname accordingly.
 
 # Family Traits
 
