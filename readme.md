@@ -116,7 +116,6 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 | Fuschia Mart    |
 | Cinnabar Mart   |
 | 3 Island Mart   |
-| Indigo Plateau  |
 
 ---
 
