@@ -151,6 +151,7 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 
 # Settings
 
+| I recommend turning on "Show Team View" under "Setup" in the Tracker! |
 | Standard AI, Type Themed areas wild Pokemon, Opponents 40% level increase, Strong Legendaries: Slow Exp, No Held Items on Opponents, Catch rate 100%          |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 321QRIEEjIBAAQABwCRAAKeChsECQEACQACCQAuEgAAAAAABRi42gTkAoYICTIGBAIyGAUgEEZpcmUgUmVkIChVKSAxLjGUH1GC48M4ig== |
