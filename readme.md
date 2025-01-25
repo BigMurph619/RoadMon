@@ -12,28 +12,16 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 # Family Trip Rules
 
 1) Stay on the road: Someone must always be awake to drive! If all Pokemon faint, the trip is over.
-2) Take turns driving: All mons must stay within 20 levels of one another.
-3) Heals for all: You may heal outside of battle as well as in battle.
+2) Take turns driving: All mons must stay within 20 levels of one another (Timmy is an exception when you first catch him, but you may not level him up until everyone is within 20 levels).
+3) You may heal outside of battle as well as in battle. You may not use pure healing moves such as recover, Leech seed, aromatherapy, heal bell, etc.
 4) Shut up! And stay that way: No flutes, shell bell, leftovers or reviving items allowed, all other items are legal.
-5) Stealing is bad: You may not keep ANY stolen items.
-6) Stopping for snacks: Each family member may buy 1 snack at each shop.
-7) Refueling: Healing stations are a one time stop.
+5) Stealing is bad: You may not keep ANY stolen items. (Steal and use mid battle is allowed.)
+6) Stopping for snacks: Each family member may buy 1 snack at each shop. You may only enter each shop once so you must buy all your snacks together. You must get your snacks before leaving that town. You may get unlimited repels and poke balls.
+7) Refueling: Healing stations are a one time stop. You may not heal via any other healing station unless otherwise stated in another rule.
 8) Friends of the family: All TMs and Move Tutors are allowed.
-9) The vegan way: You may not intentionally kill a wild Pokemon for EXP.
-10) No Redos: You may not re-fight trainers or pickup the same item twice.
-11) Theme parks: You have only one entry ticket for dungeons.
-
-# The Kids' Interpretations
-
-1) Heals for all: You may not use pure healing moves such as recover. Leech seed, aromatherapy, and heal bell.
-2) Shut up! And stay that way: You may use all items you find and purchase (restricted to shopping and other rules).
-3) Stealing is bad: Steal and use mid battle is allowed.
-4) Stopping for snacks: You may only enter each shop once so you must buy all your snacks together. You must get your snacks before leaving that town. You may get unlimited repels and poke balls.
-5) Refueling: You may not heal via any other healing station unless otherwise stated in another rule.
-6) The vegan way: Unless game progression requires you to do so.
-7) Shiny toys: If a shiny pokemon appears feel free to hunt it.
-8) No Redos: You may not abuse respawning items.
-9) Theme parks: Applies to Caves, Gyms, and Buildings with trainers.
+9) The vegan way: You may not intentionally kill a wild Pokemon for EXP. Unless game progression requires you to do so. If a shiny pokemon appears feel free to hunt it.
+10) No Redos: You may not re-fight trainers or pickup the same item twice. You may not abuse respawning items (one pickup only).
+11) Theme parks: You have only one entry ticket for dungeons. Applies to Caves, Gyms, and Buildings with trainers.
 
 # The Birds and the Bees
 
@@ -44,18 +32,18 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 # Family Traits
 
-1) Dad : "gotta fish"
-    - You may fish at any of these locations, catch the first encounter and Dad can use the item only right then or toss.
-    - Locations: Route 6 Pond, Celadon Pond, Route 12 Pier, Fuschia Pond, Cinnabar Pier, Cape Brink (Two Island), Bond Bridge (Three Island)
-2) Mum : "gotta gamble"
+1) Dad : "Gotta fish"
+    - You may fish at any of these locations, catch the first encounter and you may keep its held item if it has one. You may also trade any fish if they happen to be part of an in game trade!
+    - Locations: Route 6 Pond, Celadon Pond, Route 12 Pier, Fuschia Pond, Cinnabar Pier, Cape Brink (Two Island), Bond Bridge (Three Island), Victory Road Island
+2) Mom : "Gotta gamble"
     - On the way out from hideout spend ALL of your money on coins, gamble 10 times.
-    - If you come out positive, earnings go towards Game Corner TMs only she can use
-    - If you go into the negative, no game corner TMs, no money for Drinks at the top of mart/exchange for TMs
+    - If you come out positive, earnings go towards Game Corner TMs anyone can use. Yo ma also purchase drinks from the Celadon rooftop! 1  drink each.
+    - If you go into the negative, you may no purchase game corner TMs OR purchase yummy drinks on top of the Celadon Mart
     - You must run the game at at least 100% speed for this.
 3) Kimmy : "Car Sick"
     - If Kimmy is Poisoned you may not heal the Poison until you reach a Pokemon Center.
     - Additionally, no one in the family can eat (berries, rare candies, etc.) or drink (Fresh Water, Berry Juice, etc.) anything until healing at the next Pokemon Center even if Kimmy faints.
-    - **Kimmy may NEVER hold a poison healing berry.**
+    - **Kimmy may NEVER hold a poison healing item.**
 4) Timmy : "Touchy Tummy"
     - So no berries, Milk, Soda, or Candy for this little fella.
 
