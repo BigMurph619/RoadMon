@@ -37,7 +37,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
     - Locations: Route 6 Pond, Celadon Pond, Route 12 Pier, Fuschia Pond, Cinnabar Pier, Cape Brink (Two Island), Bond Bridge (Three Island), Victory Road Island
 2) Mom : "Gotta gamble"
     - On the way out from hideout spend ALL of your money on coins, gamble 10 times.
-    - If you come out positive, earnings go towards Game Corner TMs anyone can use. Yo ma also purchase drinks from the Celadon rooftop! 1  drink each.
+    - If you come out positive, earnings go towards Game Corner TMs anyone can use. You may also purchase drinks from the Celadon rooftop in addition to your regular snacks! 1  drink each. You may trade these drinks for TMs if you'd like.
     - If you go into the negative, you may no purchase game corner TMs OR purchase yummy drinks on top of the Celadon Mart
     - You must run the game at at least 100% speed for this.
 3) Kimmy : "Car Sick"
@@ -53,11 +53,11 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 | Routes                                                     | Notes                                                                                                                                                                                                |
 | :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|Route 1 roadkill                                            |After you get the family on the road, you may kill 1 pokemon from route 1 for EXP.                                                                                                                    |
+|Route 1 Roadkill                                            |After you get the family on the road, you may kill 1 pokemon from route 1 for EXP.                                                                                                                    |
 |Viridian Pokemon Center                                     |You must use the Viridian Pokemon Center and Mart no later than immediately after fighting Rival #2 Note: you may use the pokemon center freely prior to the Route 1 Roadkill                          |
 |I ain’t turnin’ this damn car around                        |Once leaving, you may not return to Pewter City until memory lane.                                                                                                                                    |
 |You must beat Misty before “Dig” rocket                     |You may only return to Cerulean for Kimmy’s bike cuz that shit costs 1,000,000 Poke Bucks...and for Memory Lane.                                                                                      |
-|Pull your weight                                            |Each Family member must have 1 and ONLY 1 of the HMs: Cut(before Surge), Fly(before Erike), Strength(before Koga), Surf(Before Sabrina). No changing. Rock Smash at your own discretion.              |
+|Pull your weight                                            |Each Family member must have 1 and ONLY 1 of the HMs: Cut(before Surge), Fly(before Erika), Strength(before Koga), Surf(Before Sabrina). No changing. Rock Smash at your own discretion.              |
 |You must beat Surge before cutting towards Rock Tunnel      |You’re getting the idea, no going back to places unless I say so.                                                                                                                                     |
 |The Haunted House: Dress up for Halloween!                  |You may only hold clothing or accessory based non consumable items                                                                                                                                    |
 |Trick or Treat Clause                                       |If you find a rare candy in the tower, you may use the Heal Pad once and retrieve the item.                                                                                                           |
@@ -65,16 +65,16 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 |WE'RE LOST!                                                 |The pathing of the mid game gets weird, you’re on a road trip, stay in the spirit of the challenge, follow all rules, and tell a good story!                                                          |
 |Safari Souvenir                                             |You may catch 1 unique Pokemon per family member from the Safari zone at a chance for information and held items. No fishing allowed, DAD!                                                            |
 |Move Deleter is Banned.                                     |I don’t trust that guy, ain’t nothin’ free in this world - Dad Probably                                                                                                                               |
-|Sevii Islands - no Island hopping                           |You may not return to an Island unless it is for mission progression. Mom didn’t pay for that feature. Only return to one Island once you’re ready to leave.                                          |
+|Sevii Islands - no Island hopping                           |You may not return to an Island unless it is for mission progression. Mom didn’t pay for that feature. Only return to One Island once you’re ready to leave.                                          |
 |Memory Lane:                                                |Go down memory lane and revisit places for things like move tutors (i.e Pewter City tutor etc) no shop/Pokemon Center re-use. You may only go down memory lane once returning from the Sevii Islands. |
 
 ---
 
-**Non consumable items:** Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
+**Haunted House Items:** Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
 
 # Hitchhiker Encounters
 
-Mum and Dad like to have an action plan for hitchhikers;
+Is it worth it!?
 
 Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to the Fuschia City PC. UNLESS!?
 
@@ -104,10 +104,6 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 | Fuschia Mart    |
 | Cinnabar Mart   |
 | 3 Island Mart   |
-
----
-
-> Celadon Mart: The Family may also get additional Rooftop drinks (any combination) and either keep or trade them for TMs…unless Mom ruins it for everyone. You may only go to the rooftop if Mom goes positive gambling.
 
 # Dad's Approved Gas Stops
 
@@ -139,7 +135,9 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 
 # Settings
 
-I recommend turning on "Show Team View" under "Setup" in the Tracker!
+Change your in game option "Battle Style" to "Shift". I recommend turning on "Show Team View" under "Setup" in the Tracker!
 | Standard AI, Type Themed areas wild Pokemon, Opponents 40% level increase, Strong Legendaries: Slow Exp, No Held Items on Opponents, Catch rate 100%          |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 321QRIEEjIBAAQABwCRAAKeChsECQEACQACCQAuEgAAAAAABRi42gTkAoYICTIGBAIyGAUgEEZpcmUgUmVkIChVKSAxLjGUH1GC48M4ig== |
+
+Goodluck Challenger.
