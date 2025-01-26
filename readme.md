@@ -62,7 +62,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 |Pull your weight                                            |Each Family member must have 1 and ONLY 1 of the HMs: Cut(before Surge), Fly(before Erika), Strength(before Koga), Surf(Before Sabrina). No changing. Rock Smash at your own discretion.              |
 |You must beat Surge before cutting towards Rock Tunnel      |You may not return to Vermiliion after beating Surge. You’re getting the idea, no going back to places unless I say so.                                                                               |
 |WE'RE LOST!                                                 |After Rock Tunnel: The pathing of the mid game gets weird, you’re on a road trip, stay in the spirit of the challenge, follow all rules, and tell a good story!                                       |
-|The Haunted House: Dress up for Halloween!                  |You may only hold clothing or accessory based non consumable items                                                                                                                                    |
+|The Haunted House: Dress up for Halloween!                  |You may only hold clothing or accessory based non consumable items. [Allowed Items](#Haunted-House-Items).                                                                                           |
 |Trick or Treat Clause                                       |If you find a rare candy in the tower, you may use the Heal Pad once and retrieve the item.                                                                                                           |
 |Road Trip, Not Fly Trip                                     |You may not use Fly outside of battle.                                                                                                                                                                |
 |NO ONE CARES KIMMY!                                         |No one wants to see the lame Power Plant, you may only enter during memory lane...Kimmy did a virtual tour.                                                                                           |
@@ -77,7 +77,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 ---
 
-**Haunted House Items:** Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
+# Haunted House Items Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
 
 # Hitchhiker Encounters
 
