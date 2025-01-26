@@ -28,7 +28,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 1) Dad : You may choose your starter off of the table, this is “Dad”. Please nickname accordingly.
 2) Mum : You must catch 1 Pokemon from Viridian Forest , this is “Mom”. Please nickname accordingly.
 3) Kimmy : You must catch 1 pokemon from Route 2 or 22, this is “Kimmy”. Please nickname accordingly.
-4) Timmy : You must catch 1 pokemon from Diglett Cave Community College, this is “Timmy”. Please nickname accordingly.
+4) Timmy : You must catch 1 pokemon from Diglett Cave Community College before entering the S.S. Anne, this is “Timmy”. Please nickname accordingly.
 
 # Family Traits
 
@@ -98,7 +98,7 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 
 > Deposit the kids and hitchhiker before entering Dojo. You must withdraw the kids immediately after but leave this hitchhiker in the PC (Prison Cage) forever!
 
-# Mum's Approved Shops
+# Mom's Approved Snack Shops
 
 ---
 | Shops           |
