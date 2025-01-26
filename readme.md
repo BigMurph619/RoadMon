@@ -21,7 +21,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 8) Friends of the family: All TMs and Move Tutors are allowed.
 9) The vegan way: You may not intentionally kill a wild Pokemon for EXP. Unless game progression requires you to do so. If a shiny pokemon appears feel free to hunt it.
 10) No Redos: You may not re-fight trainers or pickup the same item twice. You may not abuse respawning items (one pickup only).
-11) Theme parks: You have only one entry ticket for dungeons. Applies to Caves, Gyms, and Buildings with trainers.
+11) Theme parks: You have only one entry ticket for dungeons. Applies to Caves, Gyms, and Buildings with trainers. All gyms must be full cleared (Mom didn't buy the all-inclusive passes at the good theme parks just to go and skip sh*t).
 
 # The Birds and the Bees
 
