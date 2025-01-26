@@ -120,7 +120,6 @@ Receive 2 extra items per hitchhiker from the Fuschia Mart by delivering them to
 
 | **Heals**      | **Notes**                    |
 | :------------: | :--------------------------: |
-| Mom            | Grandma’s                    |
 | Viridian       | Must Be Before First Badge   |
 | Pewter         |                              |
 | Route 4        |                              |
