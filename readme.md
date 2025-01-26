@@ -79,7 +79,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 # Haunted House Items 
 
-Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak TwistedSpoon, Silk Scarf.
+Exp Share, Quick Claw, Choice Band, King’s Rock, Amulet Coin, Focus Band, BlackGlasses, Black Belt, Mystic Water, Sharp Beak, TwistedSpoon, and Silk Scarf. You may not hold other items.
 
 # Hitchhiker Encounters
 
