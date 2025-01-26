@@ -13,7 +13,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 
 1) Stay on the road: Someone must always be awake to drive! If all Pokemon faint, the trip is over.
 2) Take turns driving: All mons must stay within 20 levels of one another (Timmy is an exception when you first catch him, but you may not level him up until everyone is within 20 levels).
-3) You may heal outside of battle as well as in battle. You may not use pure healing moves such as recover, Leech seed, aromatherapy, heal bell, etc.
+3) Meds and allergies: You may heal outside of battle as well as in battle. You may not use pure healing moves such as recover, Leech seed, aromatherapy, heal bell, etc. SPORE IS NOW BANNED. Moves such as Giga Drain, Dream Eater are allowed.
 4) Shut up! And stay that way: No flutes, shell bell, leftovers or reviving items allowed, all other items are legal. Timmy is CPR certified!? Late in the trip (E4) the fam finds out Timmy isn't a complete bum and is CPR certified! You may use reviving items during the E4 but you may NEVER purchase any. Only those found along the way may be used.
 5) Stealing is bad: You may not keep ANY stolen items. (Steal and use mid battle is allowed.)
 6) Stopping for snacks: Each family member may buy 1 snack at each shop. You may only enter each shop once so you must buy all your snacks together. You must get your snacks before leaving that town. You may get unlimited repels and poke balls.
