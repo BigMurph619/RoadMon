@@ -73,7 +73,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 |Move Deleter is Banned.                                     |I don’t trust that guy, ain’t nothin’ free in this world - Dad Probably                                                                                                                               |
 |Gotta visit Auntie Sue first!                               |You must defeat Sabrina before surfing south of Fuschia or Pewter City.                                                                                                                               |
 |Sevii Islands - no Island hopping                           |You may not return to an Island unless it is for mission progression. Mom didn’t pay for that feature. Only return to One Island once you’re ready to leave.                                          |
-|Memory Lane:                                                |Go down memory lane and revisit places for things like move tutors (i.e Pewter City tutor etc) no shop/Pokemon Center re-use. You may only go down memory lane once returning from the Sevii Islands. |
+|Memory Lane:                                                |Go down memory lane and revisit places for things like move tutors, powerplant, unfought trainers, etc. No shop/Pokemon Center re-use. You may only go down memory lane once returning from the Sevii Islands. You may use fly outside of battle during memory lane.|
 
 ---
 
