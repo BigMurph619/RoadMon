@@ -38,7 +38,7 @@ The fam is going on a Roadtrip! Can we keep everyone alive? Or at least whoever 
 2) Mom : "Gotta gamble"
     - On the way out from hideout spend ALL of your money on coins, gamble 10 times.
     - If you come out positive, earnings go towards Game Corner TMs anyone can use. You may also purchase drinks from the Celadon rooftop in addition to your regular snacks! 1  drink each. You may trade these drinks for TMs if you'd like.
-    - If you go into the negative, you may no purchase game corner TMs OR purchase yummy drinks on top of the Celadon Mart
+    - If you go into the negative, you may not purchase game corner TMs OR purchase yummy drinks on top of the Celadon Mart
     - You must run the game at at least 100% speed for this.
 3) Kimmy : "Car Sick"
     - If Kimmy is Poisoned you may not heal the Poison until you reach a Pokemon Center.
